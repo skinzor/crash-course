@@ -8,9 +8,9 @@ Learn the following:
 
 These are used everywhere to define a logic.
 
-2. Basics of C (Programming language)
+2. Basics of C/C++ (Programming language)
 
-Many programming languages are inspired by C so learning the basics is going to teach you everything needed to master anything else.
+Many programming languages are inspired by C so learning the basics is going to teach you everything needed to master anything else. And C++ is a “superset” of C with more features. Most of the syntaxes and stuff are the same. Learning either will do your job!
 
 3. Data Structures & Algorithms
 
