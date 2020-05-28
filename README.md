@@ -21,4 +21,4 @@ Obvious
 
 ### Helpful sources
 - Freenode.net (Used by many developers willing to provide relevant and valid informations for free)
-- Bash.md
+- <a href=https://github.com/Uniminin/crash-course/blob/master/Bash.md>Bash.md</a> Ultimate Bash Programming Guide
