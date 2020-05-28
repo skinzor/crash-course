@@ -1,8 +1,9 @@
-# How to learn all programming languages (crash course)
+<h1 align="center">
+  How to learn all programming languages (crash course)
+  <h4 align="center">This is a short crash course to learn all programming languages</h4>
+</h1>
 
-This is a short crash course to learn all programming languages
-
-Learn following:
+Learn the following:
 1. Computer logic gates
 
 These are used everywhere to define a logic.
