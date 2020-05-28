@@ -1,7 +1,7 @@
-<h1 align="center">
+<h2 align="center">
   How to learn all programming languages (crash course)
   <h4 align="center">This is a short crash course to learn all programming languages</h4>
-</h1>
+</h2>
 
 Learn the following:
 1. Computer logic gates
