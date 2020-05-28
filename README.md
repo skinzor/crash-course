@@ -26,8 +26,8 @@ Obvious
 
 ### Helpful sources
 - Internet - research yourself is infinite mate!
-- Search Engines, i.e Google, duckduckgo etc..
+- Search Engines - Google, duckduckgo etc..
 - Freenode.net - Used by many developers willing to provide relevant and valid informations for free
 - Specific Community - friendly developers/people willing to help others
-- <a href=https://github.com/Uniminin/crash-course/blob/master/Bash.md>Bash.md</a> Ultimate Bash Programming Guide
+- <a href=https://github.com/Uniminin/crash-course/blob/master/Bash.md>Bash.md</a> - Ultimate Bash Programming Guide
 - assembly, Python, Ruby, V, C, C++, nim, Rust, html, css, javascript, shell, bash & and others? - Check my repositories, figure stuffs yourself out & use your brain. 
