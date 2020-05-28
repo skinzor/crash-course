@@ -1,0 +1,11 @@
+## Resources
+* http://www.shellcheck.net/
+* https://learnxinyminutes.com/docs/bash/
+* http://mywiki.wooledge.org/BashFAQ
+* http://mywiki.wooledge.org/BashGuide
+* http://gnu.org/s/bash/manual
+* http://wiki.bash-hackers.org/
+* https://wiki.bash-hackers.org/syntax/shellvars
+* http://mywiki.wooledge.org/Quotes
+* https://lists.gnu.org/mailman/listinfo/help-bash
+* https://git.savannah.gnu.org/cgit/bash.git?h=devel
