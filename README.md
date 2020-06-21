@@ -14,13 +14,17 @@ Many programming languages are inspired by C so learning the basics is going to 
 
 3. Data Structures & Algorithms
 
-Which can be learned using any language, but C/C++ is recommended.
+Which can be learned using any language, aldo C/C++ is recommended.
 
 4. Regular expression (RegEx)
 
 Mandatory to avoid writing inefficient code in most cases.
 
-5. Casting
+5. Source Code
+
+Look at other project's source code and learn from it.
+
+6. Casting
 
 Obvious
 
