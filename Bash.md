@@ -1,4 +1,5 @@
 ## Resources
+* https://devhints.io/bash
 * http://www.shellcheck.net/
 * https://learnxinyminutes.com/docs/bash/
 * http://mywiki.wooledge.org/BashFAQ
