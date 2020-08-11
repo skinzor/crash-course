@@ -1,4 +1,5 @@
 ## Resources
+* https://github.com/dylanaraps/pure-bash-bible
 * https://devhints.io/bash
 * http://www.shellcheck.net/
 * https://learnxinyminutes.com/docs/bash/
